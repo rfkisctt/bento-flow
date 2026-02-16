@@ -232,7 +232,7 @@ For full details, see the [LICENSE](LICENSE) file.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-bentoflow.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento-flow.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-bento-flow.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento-flow.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-BentoFlow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfkisctt/bento-flow)
 
 **Need help?** Open an [Issue](https://github.com/rfkisctt/bento-flow/issues) or reach out via email for support.
