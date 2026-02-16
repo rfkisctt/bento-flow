@@ -421,7 +421,7 @@ export const HeroBottom = () => {
       <div className="relative text-xs items-center box-border caret-transparent flex flex-col justify-center text-center w-full mx-auto p-2 md:text-base">
         <div className="relative text-xs items-center self-center bg-transparent box-border caret-transparent gap-x-5 flex flex-col justify-center max-w-[1000px] gap-y-4 w-full p-2.5 rounded-[20px] md:text-base md:gap-x-8 md:gap-y-8 md:p-2 md:rounded-[40px]">
           <div className="w-full mt-6 relative">
-            <SafariMockup url="BentoFlow.vercel.app">
+            <SafariMockup url="Bento-Flow.vercel.app">
               <div
                 className="relative w-full h-full bg-[#0a0a0a] flex items-center justify-center overflow-hidden"
                 onContextMenu={(e) => e.preventDefault()}

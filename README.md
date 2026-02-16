@@ -6,7 +6,7 @@
 
 **Craft beautiful bento grids in seconds. Export production-ready code instantly.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-BentoFlow-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bentoflow.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-BentoFlow-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento-flow.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-Proprietary-EB3C27?style=for-the-badge)](LICENSE)
@@ -232,7 +232,7 @@ For full details, see the [LICENSE](LICENSE) file.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-bentoflow.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bentoflow.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-bentoflow.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento-flow.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-BentoFlow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfkisctt/bento-flow)
 
 **Need help?** Open an [Issue](https://github.com/rfkisctt/bento-flow/issues) or reach out via email for support.
